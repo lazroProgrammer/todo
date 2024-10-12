@@ -1,0 +1,9 @@
+{
+    "homePage title" : "Todo list",
+    "New task?": "New task?",
+    "enter text here": "enter text here",
+    "deleteMode title":"select a task to delete",
+    "edit task?":"edit task?",
+    "delete":"delete",
+    "cancel":"cancel"
+}
